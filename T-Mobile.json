@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "domain": [
@@ -7,9 +7,7 @@
         "epdg.epc.mnc260.mcc310.pub.3gppnetwork.org",
         "ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org",
         "ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org"
-      ]
-    },
-    {
+      ],
       "ip_cidr": [
         "66.94.0.0/19",
         "206.29.177.36/32",
